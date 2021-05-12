@@ -1,0 +1,108 @@
+.parcial{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 1350px;
+	height: 840px;
+	background: pink;
+	border: solid 2px black;
+}
+.uno{
+	position: absolute;
+	left: 550px;
+	top: 30px;
+	width: 250px;
+	height: 90px;
+	background: #D7BDE2;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 80px;
+}
+.dos{
+	position: absolute;
+	left: 50px;
+	top: 150px;
+	width: 650px;
+	height: 670px;
+	background: #D7BDE2;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 80px;
+}
+.tres{
+	position: absolute;
+	left: 750px;
+	top: 150px;
+	width: 590px;
+	height: 670px;
+	background: #D7BDE2;
+	border: solid 2px black;
+}
+.cuatro{
+	position: absolute;
+	left: 60px;
+	top: 170px;
+	width: 626px;
+	height: 70px;
+	background: pink;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 60px;
+}
+.cinco{
+	position: absolute;
+	left: 755px;
+	top: 170px;
+	width: 580px;
+	height: 70px;
+	background: pink;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 60px;
+}
+.seis{
+	position: absolute;
+	left: 60px;
+	top: 270px;
+	width: 626px;
+	height: 530px;
+	background: pink;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 60px;
+}
+.siete{
+	position: absolute;
+	left: 760px;
+	top: 270px;
+	width: 566px;
+	height: 530px;
+	background: pink;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 60px;
+}
+.foto1{
+	position: absolute;
+	left: 760px;
+	top: 270px;
+	width: 566px;
+	height: 530px;
+	background: pink;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 64px;
+	background: url('captura1.PNG');
+}
+.foto2{
+	position: absolute;
+	left: 60px;
+	top: 270px;
+	width: 626px;
+	height: 530px;
+	background: pink;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 60px;
+	background: url('captura2.PNG');
+}
